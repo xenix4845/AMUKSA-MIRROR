@@ -14,5 +14,6 @@ KALI LINUX, UBUNTU 미러이며 대한민국에서 운영되고 있습니다.
 6. MXLinux
 7. Xbuutnu ISO
 8. Lubuntu ISO
-
+9. AlmaLinux / ISO / Kitten
+10. Debian
 ---
